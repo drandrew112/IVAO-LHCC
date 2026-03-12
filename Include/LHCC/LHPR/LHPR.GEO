@@ -1,8 +1,3 @@
-// ------------------------- AURORA LHCC SECTOR FILE --------------------------
-// Author: Keve Kovacs 492790
-// Contact: keve.kovacs@ivao.aero
-// Last update: 10.2024
-// Source: HUNGAROCONTROL AIP 0005/2024
 
 //*****PR - GYOR-PER INTERNATIONAL AIRPORT*****
 //-----------------------------------------------------------------------------

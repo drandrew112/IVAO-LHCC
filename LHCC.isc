@@ -1,5 +1,5 @@
 // IVAO SECTORFILE IVAO ATC CLIENT
-// Previous contributors (2022-24~): Janos Vincze (327013), Keve Kovacs (492790)
+// Previous contributors (2022-24~): Janos V (327013), Keve K (492790)
 // Contributors (2025-26): Andras Hevesy (645592)
 // IVAO Hungary http://www.hu.ivao.aero/
 
@@ -63,6 +63,7 @@ F;LOVV.ACC
 
 [ATC]
 F;LHCC.ATC
+F;LHBP.ATC
 
 [ARTCC HIGH]
 F;LHBP_TMA.ACCHIGH

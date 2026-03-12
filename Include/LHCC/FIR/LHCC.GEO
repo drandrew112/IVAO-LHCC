@@ -1,8 +1,3 @@
-// ------------------------- AURORA LHCC SECTOR FILE --------------------------
-// Author: Janos Vincze 327013 <>  Keve Kovacs 492790
-// Contact: janos.vincze@ivao.aero <> keve.kovacs@ivao.aero
-// Last update: 10.2024
-// Source: HUNGAROCONTROL AIP 0005/2024
 
 //AIRPORTS
 //-----------------------------------------------------------------------------

@@ -1,8 +1,3 @@
-// ------------------------- AURORA LHCC SECTOR FILE --------------------------
-// Author: Janos Vincze 327013 <>  Keve Kovacs 492790
-// Contact: janos.vincze@ivao.aero <> keve.kovacs@ivao.aero
-// Last update: 10.2024
-// Source: HUNGAROCONTROL AIP 0005/2024
 
 //LHTRA11A;
 N047.29.59.000;E017.50.15.000;N047.29.59.000;E018.15.29.000;restrict;LHTRA11A/PAPA ALPHA (GND-FL125);
