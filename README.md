@@ -5,3 +5,6 @@
 Possible problems with LHBP.GTS.</br>
 Sometimes Aurora can't load gate slots and sectorfile loading fails. You can press F1 and load the sectorfile again.</br>
 Just IVAO software things:)
+
+## Screenshots
+![LHBP](img/lhbp.png "LHBP Ground Layer")
