@@ -1,8 +1,9 @@
-# Ignore everything by default
+# Ignore everything
 *
 
-# Except these files / folders (track them)
+# Allow these
+!.gitignore
 !LHCC.isc
 !Include/
 !Include/HU/
-!.gitignore
+!Include/HU/**
