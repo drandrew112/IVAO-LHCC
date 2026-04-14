@@ -1,6 +1,6 @@
 [FILES]
 Sectorfile=C:\Aurora\SectorFiles\LHCC.isc
-Colorfile=C:\Aurora/ColorSchemes/TOPSKY.clr
+Colorfile=C:\Aurora\ColorSchemes\TOPSKY.clr
 Soundfile=
 
 [Connection]
@@ -24,16 +24,16 @@ Elevation=496
 [ATIS]
 ATCPosition=Budapest Approach
 METAR=LHBP
-Takeoff=31L 31R
-Landing=31R 31L
+Takeoff=13L 13R
+Landing=13R
 Remarks=
-TransLevel=120
+TransLevel=110
 TransAlt=10000
 TMA=1
 IncTransLevel=1
 IncTransAlt=1
 ATISShowQFE=0
-AtisFreq=
+AtisFreq=132.380
 AtisVoice=1
 AtisPower=15
 AtisSpeed=0
@@ -41,7 +41,7 @@ DepFreq=122.800
 ATIS_FIELDS=
 
 [PREFS]
-ICAOCtr=CITY:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHAK:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHBA:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHBC:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHBD:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHBF:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHBH:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHBI:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHBK:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHBL:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHBP:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHBR:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHBS:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHBT:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHBY:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHCL:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHDA:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHDC:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHDK:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHDV:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHEM:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHER:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHFH:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHFM:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHGD:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHJK:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHJT:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHKE:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHKU:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHKV:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHNY:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHOY:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHPA:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHPP:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHPR:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHSK:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHSM:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHSN:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHSY:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHTL:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHUD:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;
+ICAOCtr=CITY:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHAK:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHBA:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHBC:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHBD:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHBF:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHBH:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHBI:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHBK:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHBL:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHBP:0:1:1:1:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHBR:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHBS:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHBT:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHBY:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHCL:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHDA:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHDC:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHDK:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHDV:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHEM:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHER:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHFH:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHFM:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHGD:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHJK:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHJT:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHKE:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHKU:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHKV:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHNY:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHOY:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHPA:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHPP:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHPR:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHSK:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHSM:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHSN:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHSY:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHTL:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;LHUD:0:0:0:0:clNone:clNone:clNone:clNone:clNone:clNone:clNone:clNone;
 SQKSeries=LHBP IFR:2601:2677:2601:::::;
 SQKSeriesVFR=7000;7177;7001;
 SQKSeriesIVAO=1
@@ -157,8 +157,8 @@ AircraftSSRSymbol_OUT_GND=9
 AircraftSSRSymbol=9
 AircraftExtraPolitedSymbol=1
 AircraftCPDLCSymbol=13
-AircraftTimeLine=2
-AircraftTimeLineDist=2
+AircraftTimeLine=1
+AircraftTimeLineDist=30
 AircraftTimeVectorDist=0
 AircraftTimeVectorAltitude=1
 AircraftRouteAltitude=1
@@ -315,7 +315,7 @@ RwyCtrInner=0
 Taxiway=0
 TaxiwayCtr=1
 TaxiLabel=1
-Gates=0
+Gates=1
 StopLines=1
 ApronLines=1
 PierLines=0
@@ -392,9 +392,9 @@ MainScreenLeft=114
 MainScreenTop=143
 MainScreenWidth=1024
 MainScreenHeight=600
-MainScreenxLeft=-4.93976259231567
-MainScreenxTop=7.89597082138062
-MainScreenZoom=10.2510499954224
+MainScreenxLeft=-1.61959207057953
+MainScreenxTop=9.21780014038086
+MainScreenZoom=9.23139381408691
 MainScreenState=3
 MainInfoLineSize=15
 MainInfoTimeSize=22
@@ -428,9 +428,9 @@ MainScreenPosxLeft9=0
 MainScreenPosxTop9=0
 AWINDSize=15
 ComBoxVisible=1
-ComBoxOpacy=253
-ComBoxLeft=1136
-ComBoxTop=780
+ComBoxOpacy=255
+ComBoxLeft=1102
+ComBoxTop=765
 ComBoxHeight=300
 ComBoxWidth=778
 TrafScreenVisible=0
@@ -626,8 +626,8 @@ Inset3Left=-1920
 Inset3Top=0
 Inset3Height=897
 Inset3Width=1918
-Inset3xLeft=24.7189331054688
-Inset3xTop=5.86381387710571
+Inset3xLeft=24.7566795349121
+Inset3xTop=5.95275068283081
 Inset3Zoom=542.80078125
 INS3BAR=0
 INS3_LEFT=1621
@@ -1222,8 +1222,8 @@ sndPlBayRej=1
 sndPlBayRev=1
 
 [CENTERPOINT]
-Center_Point_Lat=47.3002944444444
-Center_Point_Lon=19.8444555555556
+Center_Point_Lat=47.4044906998838
+Center_Point_Lon=19.2464371143515
 
 [TRAFFICSCREENS]
 TRAFDEP_LEFT=-649
@@ -1262,7 +1262,7 @@ HideFIX=ABIDA;ABIRI;ABISO;ABITU;ABLAT;ABLOM;ABONY;ABRAG;ABRAX;ABRUK;ABRUT;ABSON;
 HideVOR=
 HideNDB=
 HideACC=
-HideHS=
+HideHS=FIS N/NE LINE;LHCC EAST/WEST LINE;LHKE MTMA1/A;LHKE MTMA1/B;LHKE MTMA2/A;LHKE MTMA2/B;LHKE MTMA3/A;LHKE MTMA3/B;LHKE MTMA4/A;LHKE MTMA4/B;LHSN MTMA/A;LHSN MTMA/B;LHPA MTMA;
 HideLS=
 
 [AREAS FILTER]
@@ -1277,9 +1277,9 @@ HideHOLDenr=
 
 [GEO FILTER]
 GEO_FILTER=NOTAM:1:$FFFF0000;NOTAM_BORDER:1:$FFFFFFFF;ARP_BG:1:$FF004545;ARP_FL:1:$FF808080;TWY:1:$FF464646;LINE:1:$FFFFFFFF;LABEL:1:$FFFFFFFF;RWY:1:$FF000000;RWY_CTL:1:clNone;RWY_SAFETY:1:$FF394244;RWY_ARROW:1:$FFFFFF00;STPBAR:1:$FF109C10;ILS_SENS:1:$FFB5B512;ILS_CRIT:1:$FF901313;TRANS:1:$FF000000;
-RUNWAY_MANUAL=
+RUNWAY_MANUAL=LHBP:13R:1:1;LHBP:13L:1:1;
 RUNWAY_WIND=
-AIRPORT_PROCEDURES=
+AIRPORT_PROCEDURES=LHBP:13L^13R:T BAR TRANS 13:1:1:1:1;LHBP:31L^31R:T BAR TRANS 31:1:1:1:1;
 
 [STATIC LABELS]
 STATICLABELS=1
@@ -1339,7 +1339,7 @@ STATIC_LABELS_ALT_MAX=-
 STATIC_LABELS_SPD_MIN=+
 STATIC_LABELS_SPD_MAX=-
 STATIC_LBL_STATE0=1;80;20;0;1;0;0;0;0;0;0;0;
-STATIC_LBL_ID0=1:-11:0:15,20,3,14,1,5:0:0:0:0::-1:0:0:1:0;1:274:32::1:1:0:0:clYellow:-1:0:0:1:0;1:198:18::1:1:0:0:$00A0A0A0:-1:0:0:11:0;1:270:12::1:0:0:1:$00A0A0A0:-1:0:0:1:0;0:0:0::0:1:0:0::-1:0:0:1:0;1:293:54::1:0:0:0::-1:0:0:1:0;0:0:63::0:0:0:0::-1:0:0:1:0;1:0:16:18,11,30,2:0:0:0:1:$00A0A0A0:-1:0:3:1:0;1:0:32:22,12,35,33:0:0:0:0:$00A0A0A0:-1:0:0:1:0;0:0:74::0:1:0:0::-1:0:0:1:0;0:202:43::0:1:0:0::-1:0:0:1:0;1:82:14::1:0:0:0:$00A0A0A0:-1:0:5:1:0;1:125:32::1:1:0:0:$00A0A0A0:-1:0:0:1:0;1:0:48:36:0:1:0:0:$00A0A0A0:-1:0:2:1:0;1:300:9::1:0:0:0:$00A0A0A0:-1:0:0:1:0;1:59:0::1:0:0:0:$00A0A0A0:-1:0:0:1:0;0:0:0::0:0:0:0::-1:0:0:1:0;0:0:32::0:0:0:0::-1:0:0:1:0;1:45:16::1:0:0:1:$00A0A0A0:-1:0:0:1:0;0:36:55::0:0:0:0::-1:0:0:1:0;1:151:0::1:0:0:0:$00C8C8C8:-1:0:0:1:0;0:0:0::0:0:0:0::-1:0:0:1:0;1:78:31::1:1:0:0:$00A0A0A0:-1:0:4:1:0;0:247:21::0:1:0:0::-1:0:8:1:0;0:40:85::0:0:0:0::-1:0:0:1:0;0:40:85::0:0:0:0::-1:0:0:1:0;0:66:15::0:0:0:1::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;1:133:15::1:1:0:0:$00A0A0A0:-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:0:32::0:0:0:1::-1:0:0:1:0;1:214:31::1:0:0:0:clLime:-1:0:0:1:0;0:148:24::0:0:0:0::-1:0:0:1:0;1:172:30::1:1:0:0:$00A0A0A0:-1:0:0:1:0;1:136:42::1:1:0:0:$00A0A0A0:-1:0:18:18:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;
+STATIC_LBL_ID0=1:0:0:15,20,3,14,1,5:0:0:0:0::-1:0:0:1:0;1:274:32::1:1:0:0:clYellow:-1:0:0:1:0;1:198:18::1:1:0:0:$00A0A0A0:-1:0:0:11:0;1:270:12::1:0:0:1:$00A0A0A0:-1:0:0:1:0;0:0:0::0:1:0:0::-1:0:0:1:0;1:293:54::1:0:0:0::-1:0:0:1:0;0:0:63::0:0:0:0::-1:0:0:1:0;1:0:16:18,11,30,2:0:0:0:1:$00A0A0A0:-1:0:3:1:0;1:0:32:22,12,35,33:0:0:0:0:$00A0A0A0:-1:0:0:1:0;0:0:74::0:1:0:0::-1:0:0:1:0;0:202:43::0:1:0:0::-1:0:0:1:0;1:82:14::1:0:0:0:$00A0A0A0:-1:0:5:1:0;1:125:32::1:1:0:0:$00A0A0A0:-1:0:0:1:0;1:0:48:36:0:1:0:0:$00A0A0A0:-1:0:2:1:0;1:300:9::1:0:0:0:$00A0A0A0:-1:0:0:1:0;1:59:0::1:0:0:0:$00A0A0A0:-1:0:0:1:0;0:0:0::0:0:0:0::-1:0:0:1:0;0:0:32::0:0:0:0::-1:0:0:1:0;1:45:16::1:0:0:1:$00A0A0A0:-1:0:0:1:0;0:36:55::0:0:0:0::-1:0:0:1:0;1:151:0::1:0:0:0:$00C8C8C8:-1:0:0:1:0;0:0:0::0:0:0:0::-1:0:0:1:0;1:78:31::1:1:0:0:$00A0A0A0:-1:0:4:1:0;0:247:21::0:1:0:0::-1:0:8:1:0;0:40:85::0:0:0:0::-1:0:0:1:0;0:40:85::0:0:0:0::-1:0:0:1:0;0:66:15::0:0:0:1::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;1:133:15::1:1:0:0:$00A0A0A0:-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:0:32::0:0:0:1::-1:0:0:1:0;1:214:31::1:0:0:0:clLime:-1:0:0:1:0;0:148:24::0:0:0:0::-1:0:0:1:0;1:172:30::1:1:0:0:$00A0A0A0:-1:0:0:1:0;1:136:42::1:1:0:0:$00A0A0A0:-1:0:18:18:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;
 STATIC_LBL_STATE1=1;80;20;0;1;0;0;0;0;0;0;0;
 STATIC_LBL_ID1=1:0:0:20,3,14,1,5:0:0:0:0::-1:0:0:1:0;1:272:0::1:0:0:0:clYellow:-1:0:0:1:0;1:179:17::1:0:0:0:$00E0B000:-1:0:0:11:0;1:149:0::1:0:0:1:$00E0B000:-1:0:0:1:0;0:0:0::0:1:0:0::-1:0:0:1:0;1:300:0::1:0:0:0::-1:0:0:1:0;0:0:63::0:0:0:0::-1:0:0:1:0;1:0:16:18,11,30,2:0:0:0:1:$00E0B000:-1:0:3:1:0;1:0:32:22,12,35,33:0:0:0:0:$00E0B000:-1:0:0:1:0;0:266:15::0:1:0:0::-1:0:0:1:0;1:99:68::1:1:0:0:$00E0B000:-1:0:0:1:0;1:82:14::1:0:0:0:$00E0B000:-1:0:5:1:0;1:98:30::1:0:0:0:$00E0B000:-1:0:0:1:0;1:0:48:36:0:0:0:0:$00E0B000:-1:0:2:1:0;1:202:0::1:0:0:0::-1:0:0:1:0;0:2:2::0:0:0:0::-1:0:0:1:0;0:0:0::0:0:0:0::-1:0:0:1:0;0:58:0::0:1:0:1::-1:0:0:1:0;1:45:16::1:0:0:1:$00E0B000:-1:0:0:1:0;1:0:64:21,10:0:1:0:0:$00E0B000:-1:0:0:1:0;1:64:0::1:0:0:0:$00C8C8C8:-1:0:0:1:0;1:54:64::1:1:0:0:$00E0B000:-1:0:0:1:0;1:46:31::1:0:0:0:$00E0B000:-1:0:4:1:0;0:247:21::0:1:0:0::-1:0:8:1:0;0:40:85::0:0:0:0::-1:0:0:1:0;0:40:85::0:0:0:0::-1:0:0:1:0;0:70:16::0:0:0:1::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;1:133:15::1:0:0:0:$00E0B000:-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;1:197:38::1:0:0:0:clLime:-1:0:0:1:0;0:148:24::0:0:0:0::-1:0:0:1:0;1:146:30::1:1:0:0:$00E0B000:-1:0:0:1:0;1:136:42::1:0:0:0:$00E0B000:-1:0:18:18:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;
 STATIC_LBL_STATE2=1;80;20;0;0;0;0;0;0;0;0;0;
@@ -1347,9 +1347,9 @@ STATIC_LBL_ID2=1:0:0:20,3,14,1,5:0:0:0:0::-1:0:0:1:0;1:272:0::1:0:0:0:clYellow:-
 STATIC_LBL_STATE3=1;107;21;0;0;0;0;0;0;0;0;0;
 STATIC_LBL_ID3=1:0:0:5:0:0:0:0:$008CC8C8:-1:0:0:1:0;0:112:0::0:0:0:0::-1:0:0:1:0;0:68:0::0:0:0:0::-1:0:0:1:0;0:120:0::0:0:0:0::-1:0:0:1:0;0:62:0::0:0:0:0::-1:0:0:1:0;1:53:0::1:0:0:0::-1:0:0:1:0;0:0:72::0:0:0:0::-1:0:0:1:0;0:0:42::0:0:0:0::-1:0:0:1:0;0:131:13::0:0:0:0::-1:0:3:1:0;0:0:45::0:0:0:0::-1:0:0:1:0;0:48:28::0:0:0:0::-1:0:0:1:0;0:102:0::0:0:0:0::-1:0:0:1:0;0:2:42::0:0:0:0::-1:0:5:1:0;0:0:29::0:0:0:0::-1:0:2:1:0;0:60:0::0:0:0:0::-1:0:0:1:0;1:0:16:31:0:0:0:0:$00B4B4B4:-1:0:0:1:0;0:0:0::0:0:0:0::-1:0:0:1:0;0:0:0::0:0:0:0::-1:0:0:1:0;0:0:0::0:0:0:0::-1:0:0:1:0;0:50:28::0:0:0:0::-1:0:0:1:0;0:89:45::0:0:0:0::-1:0:0:1:0;0:0:0::0:0:0:0::-1:0:0:1:0;0:176:39::0:0:0:0::-1:0:4:1:0;0:43:43::0:0:0:0::-1:0:0:1:0;0:40:85::0:0:0:0::-1:0:0:1:0;0:40:85::0:0:0:0::-1:0:0:1:0;0:44:35::0:0:0:0::-1:0:0:1:0;0:90:36::0:0:0:0::-1:0:0:1:0;0:126:36::0:0:0:0::-1:0:0:1:0;0:126:49::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;1:98:16::1:0:0:0:$00C8C8C8:-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;
 STATIC_LBL_STATE4=1;107;21;0;0;0;0;0;0;0;0;0;
-STATIC_LBL_ID4=1:0:0:5:0:0:0:0:clWhite:-1:0:0:1:0;1:0:33::0:0:0:0:clYellow:-1:0:0:1:0;0:66:40::1:0:0:0::-1:0:0:1:0;1:0:17:14,11:0:0:0:1:$00C8C8C8:-1:0:0:1:0;0:0:0::0:0:0:0::-1:0:0:1:0;1:78:0::1:0:0:0::-1:0:0:1:0;0:116:64::0:0:0:0::-1:0:0:1:0;0:0:51::0:0:0:0::-1:0:0:1:0;0:0:27::0:0:0:0::-1:0:0:1:0;0:0:45::0:0:0:0::-1:0:0:1:0;0:48:28::0:0:0:0::-1:0:0:1:0;1:74:22::1:0:0:0::-1:0:0:1:0;0:2:42::0:0:0:0::-1:0:5:1:0;0:0:13::0:0:0:0::-1:0:0:1:0;1:43:14::1:0:0:1::-1:0:0:1:0;0:0:13::0:0:0:0::-1:0:0:1:0;0:0:0::0:0:0:0::-1:0:0:1:0;0:0:0::0:0:0:0::-1:0:0:1:0;0:0:0::0:0:0:0::-1:0:0:1:0;0:0:34::0:0:0:0:$00C8C8C8:-1:0:0:1:0;0:0:52::0:0:0:0:$002828FF:-1:0:14:1:0;0:0:0::0:0:0:0::-1:0:0:1:0;0:176:39::0:0:0:0::-1:0:4:1:0;0:101:37::1:0:0:0:clYellow:-1:0:8:1:0;0:40:85::0:0:0:0::-1:0:0:1:0;0:0:41:2,23:0:0:0:0::-1:0:0:1:0;0:44:35::0:0:0:0::-1:0:0:1:0;0:238:18::0:0:0:0::-1:0:9:1:0;0:172:16::0:0:0:0::-1:0:11:1:0;0:126:49::0:0:0:0::-1:0:0:1:0;0:0:52::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:86:18::0:0:0:0:clLime:-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:0:30::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;
+STATIC_LBL_ID4=1:0:0:5:0:0:0:0:clWhite:-1:0:0:1:0;1:0:33::0:0:0:0:clYellow:-1:0:0:1:0;0:66:40::1:0:0:0::-1:0:0:1:0;1:0:17:14,11:0:0:0:1:$00B4B4B4:-1:0:0:1:0;0:0:0::0:0:0:0::-1:0:0:1:0;1:78:0::1:0:0:0::-1:0:0:1:0;0:116:64::0:0:0:0::-1:0:0:1:0;0:0:51::0:0:0:0::-1:0:0:1:0;0:0:27::0:0:0:0::-1:0:0:1:0;0:0:45::0:0:0:0::-1:0:0:1:0;0:48:28::0:0:0:0::-1:0:0:1:0;1:74:22::1:0:0:0:$00B4B4B4:-1:0:0:1:0;0:2:42::0:0:0:0::-1:0:5:1:0;0:0:13::0:0:0:0::-1:0:0:1:0;1:43:14::1:0:0:1:$00B4B4B4:-1:0:0:1:0;0:0:13::0:0:0:0::-1:0:0:1:0;0:0:0::0:0:0:0::-1:0:0:1:0;0:0:0::0:0:0:0::-1:0:0:1:0;0:0:0::0:0:0:0::-1:0:0:1:0;0:0:34::0:0:0:0:$00C8C8C8:-1:0:0:1:0;0:0:52::0:0:0:0:$002828FF:-1:0:14:1:0;0:0:0::0:0:0:0::-1:0:0:1:0;0:176:39::0:0:0:0::-1:0:4:1:0;0:101:37::1:0:0:0:clYellow:-1:0:8:1:0;0:40:85::0:0:0:0::-1:0:0:1:0;0:0:41:2,23:0:0:0:0::-1:0:0:1:0;0:44:35::0:0:0:0::-1:0:0:1:0;0:238:18::0:0:0:0::-1:0:9:1:0;0:172:16::0:0:0:0::-1:0:11:1:0;0:126:49::0:0:0:0::-1:0:0:1:0;0:0:52::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:86:18::0:0:0:0:clLime:-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:0:30::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;
 STATIC_LBL_STATE5=1;107;21;0;0;0;0;0;0;0;0;0;
-STATIC_LBL_ID5=1:0:0:5:0:0:0:0:clWhite:-1:0:0:1:0;1:0:33::0:0:0:0:clYellow:-1:0:0:1:0;0:66:40::1:0:0:0::-1:0:0:1:0;1:0:17:14,11:0:0:0:1:$00C8C8C8:-1:0:0:1:0;0:0:0::0:0:0:0::-1:0:0:1:0;1:78:0::1:0:0:0::-1:0:0:1:0;0:116:64::0:0:0:0::-1:0:0:1:0;0:0:51::0:0:0:0::-1:0:0:1:0;0:0:27::0:0:0:0::-1:0:0:1:0;0:0:45::0:0:0:0::-1:0:0:1:0;0:48:28::0:0:0:0::-1:0:0:1:0;1:74:22::1:0:0:0::-1:0:0:1:0;0:2:42::0:0:0:0::-1:0:5:1:0;0:0:13::0:0:0:0::-1:0:0:1:0;1:43:14::1:0:0:1::-1:0:0:1:0;0:0:13::0:0:0:0::-1:0:0:1:0;0:0:0::0:0:0:0::-1:0:0:1:0;0:0:0::0:0:0:0::-1:0:0:1:0;0:0:0::0:0:0:0::-1:0:0:1:0;0:0:34::0:0:0:0:$00C8C8C8:-1:0:0:1:0;0:0:52::0:0:0:0:$002828FF:-1:0:14:1:0;0:0:0::0:0:0:0::-1:0:0:1:0;0:176:39::0:0:0:0::-1:0:4:1:0;0:101:37::1:0:0:0:clYellow:-1:0:8:1:0;0:40:85::0:0:0:0::-1:0:0:1:0;0:0:41:2,23:0:0:0:0::-1:0:0:1:0;0:44:35::0:0:0:0::-1:0:0:1:0;0:238:18::0:0:0:0::-1:0:9:1:0;0:172:16::0:0:0:0::-1:0:11:1:0;0:126:49::0:0:0:0::-1:0:0:1:0;0:0:52::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:86:18::0:0:0:0:clLime:-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:0:30::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;
+STATIC_LBL_ID5=1:0:0:5:0:0:0:0:clWhite:-1:0:0:1:0;1:0:33::0:0:0:0:clYellow:-1:0:0:1:0;0:66:40::1:0:0:0::-1:0:0:1:0;1:0:17:14,11:0:0:0:1:$00B4B4B4:-1:0:0:1:0;0:0:0::0:0:0:0::-1:0:0:1:0;1:78:0::1:0:0:0::-1:0:0:1:0;0:116:64::0:0:0:0::-1:0:0:1:0;0:0:51::0:0:0:0::-1:0:0:1:0;0:0:27::0:0:0:0::-1:0:0:1:0;0:0:45::0:0:0:0::-1:0:0:1:0;0:48:28::0:0:0:0::-1:0:0:1:0;1:74:22::1:0:0:0:$00B4B4B4:-1:0:0:1:0;0:2:42::0:0:0:0::-1:0:5:1:0;0:0:13::0:0:0:0::-1:0:0:1:0;1:43:14::1:0:0:1:$00B4B4B4:-1:0:0:1:0;0:0:13::0:0:0:0::-1:0:0:1:0;0:0:0::0:0:0:0::-1:0:0:1:0;0:0:0::0:0:0:0::-1:0:0:1:0;0:0:0::0:0:0:0::-1:0:0:1:0;0:0:34::0:0:0:0:$00C8C8C8:-1:0:0:1:0;0:0:52::0:0:0:0:$002828FF:-1:0:14:1:0;0:0:0::0:0:0:0::-1:0:0:1:0;0:176:39::0:0:0:0::-1:0:4:1:0;0:101:37::1:0:0:0:clYellow:-1:0:8:1:0;0:40:85::0:0:0:0::-1:0:0:1:0;0:0:41:2,23:0:0:0:0::-1:0:0:1:0;0:44:35::0:0:0:0::-1:0:0:1:0;0:238:18::0:0:0:0::-1:0:9:1:0;0:172:16::0:0:0:0::-1:0:11:1:0;0:126:49::0:0:0:0::-1:0:0:1:0;0:0:52::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:86:18::0:0:0:0:clLime:-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;0:0:30::0:0:0:0::-1:0:0:1:0;0:50:50::0:0:0:0::-1:0:0:1:0;
 
 [3RD PARTY]
 ENABLE_TCP_SERVER=1
