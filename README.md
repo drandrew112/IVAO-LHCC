@@ -12,6 +12,7 @@ Just IVAO software things:)
 ### Budapest TMA
 ![LHBP_TMA](img/lhbp_tma.png "LHBP TMA")
 ### Tags
+It's in the profile file: LHBP_APP.cpr
 #### Airborne traffic
 ![LHBP_TMA_TAGS](img/lhbp_tma_tags.png "LHBP TMA TAGS")
 ![TAGS_AIR_2](img/tags_air_2.png "LHBP Inbound traffic")
