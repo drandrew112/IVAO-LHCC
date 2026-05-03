@@ -14,3 +14,8 @@ Just IVAO software things:)
 ### Tags
 #### Airborne traffic
 ![LHBP_TMA_TAGS](img/lhbp_tma_tags.png "LHBP TMA TAGS")
+![TAGS_AIR_2](img/tags_air_2.png "LHBP Inbound traffic")
+![SVW4015_TO_TWR](img/tags_outtransfer.png "SVW4015 transfer to tower")
+#### Ground traffic
+Details depends on SQK mode! Wake cat. and speed only available when sqk is on.
+![LHBP_GND_1](img/tags_gnd_lhbp1.png "LHBP Ground traffic")
