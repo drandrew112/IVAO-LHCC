@@ -11,3 +11,6 @@ Just IVAO software things:)
 ![LHBP](img/lhbp.png "LHBP Ground Layer")
 ### Budapest TMA
 ![LHBP_TMA](img/lhbp_tma.png "LHBP TMA")
+### Tags
+#### Airborne traffic
+![LHBP_TMA_TAGS](img/lhbp_tma_tags.png "LHBP TMA TAGS")
