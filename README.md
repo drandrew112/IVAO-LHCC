@@ -7,7 +7,7 @@ Sometimes Aurora can't load gate slots and sectorfile loading fails. You can pre
 Just IVAO software things:)
 
 ## Installation
-1. Download the complete zip version from the Main Branch, _or_, download directly via Aurora.
+1. Download the complete zip version from the Main Branch.
 2. Extract directly (or copy) and _**OVERWRITE**_ to the SectorFiles folder within your Aurora Installation folder
     * **Windows:**\
       `<Aurora_Root_folder>\SectorFiles`\
