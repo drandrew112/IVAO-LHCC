@@ -6,6 +6,16 @@ Possible problems with LHBP.GTS.</br>
 Sometimes Aurora can't load gate slots and sectorfile loading fails. You can press F1 and load the sectorfile again.</br>
 Just IVAO software things:)
 
+## Installation
+1. Download the complete zip version from the Main Branch, _or_, download directly via Aurora.
+2. Extract directly (or copy) and _**OVERWRITE**_ to the SectorFiles folder within your Aurora Installation folder
+    * **Windows:**\
+      `<Aurora_Root_folder>\SectorFiles`\
+      by default:\
+      `C:\Aurora\SectorFiles`\
+      Your other downloaded sectorfiles will remain intact.
+3. Optional: Move the profile file (contains the tags) from Include/HU/PREFS folder to Aurora/Profiles
+
 ## Screenshots
 ### Budapest Ground Layer
 ![LHBP](img/lhbp.png "LHBP Ground Layer")
